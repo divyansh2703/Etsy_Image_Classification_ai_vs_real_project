@@ -24,5 +24,5 @@ class ImageDataset(Dataset):
         if self.is_test:
             return image, row["image_id"]
 
-        label = row["label"]
+        label = int(row["label"])
         return image, torch.tensor(label, dtype=torch.long)

@@ -1,0 +1,41 @@
+{
+    "train_rows": 4800,
+    "test_rows": 2058,
+    "train_duplicate_id_rows": 0,
+    "test_duplicate_id_rows": 0,
+    "train_test_overlap_count": 0,
+    "train_missing_files": 0,
+    "test_missing_files": 0,
+    "physical_image_files_found": 6858,
+    "unique_physical_image_names_found": 6858,
+    "unique_physical_image_stems_found": 6858,
+    "unreferenced_image_files": 0,
+    "exact_duplicate_image_rows": 0,
+    "near_duplicate_image_rows": 4,
+    "images_successfully_read": 6858,
+    "corrupt_or_unreadable_images": 0,
+    "format_distribution": {
+        "JPEG": 6808,
+        "PNG": 50
+    },
+    "mode_distribution": {
+        "RGB": 6808,
+        "RGBA": 50
+    },
+    "width_stats": {
+        "min": 36,
+        "max": 3024,
+        "mean": 1013.3486439195101,
+        "median": 1024.0
+    },
+    "height_stats": {
+        "min": 54,
+        "max": 4032,
+        "mean": 1005.7941090696996,
+        "median": 1024.0
+    },
+    "train_label_distribution": {
+        "0": 2485,
+        "1": 2315
+    }
+}

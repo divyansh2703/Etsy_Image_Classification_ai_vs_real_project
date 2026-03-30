@@ -1,0 +1,5 @@
+image_id,split,image_path,status,error,width,height,mode,format,file_md5,phash
+415b82ae-e607-430a-8032-5600017c296a.jpg,train,data/images/415b82ae-e607-430a-8032-5600017c296a.jpg,ok,,1024,1024,RGB,JPEG,f3d13cb46477a5abc573636315146c40,ea3b943e90c3db81
+7825bf77-105a-45cf-a850-df2bb72aa8b9.jpg,test,data/images/7825bf77-105a-45cf-a850-df2bb72aa8b9.jpg,ok,,1024,1024,RGB,JPEG,777ce34288a0d8b67aebef063300cd24,ea3b943e90c3db81
+b1252a78-866f-49fd-9789-f621751801aa.jpg,train,data/images/b1252a78-866f-49fd-9789-f621751801aa.jpg,ok,,1024,1024,RGB,JPEG,40155b2361854063820a989b31b654db,f88ad6a5ca199a2d
+919cb978-42fe-4ed3-8e77-c263fe2f8542.jpg,test,data/images/919cb978-42fe-4ed3-8e77-c263fe2f8542.jpg,ok,,1024,1024,RGB,JPEG,514bcff54d35809096053c77d10cd1f2,f88ad6a5ca199a2d
