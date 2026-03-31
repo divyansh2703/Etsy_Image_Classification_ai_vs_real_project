@@ -1,0 +1,8 @@
+{
+    "best_conv_weight": 0.5,
+    "best_eff_weight": 0.5,
+    "default_threshold": 0.5,
+    "best_f1": 0.894011202068074,
+    "best_precision": 0.8917060593038246,
+    "best_recall": 0.896328293736501
+}

@@ -1,0 +1,11 @@
+{
+    "default_threshold": 0.5,
+    "default_f1": 0.894011202068074,
+    "default_precision": 0.8917060593038246,
+    "default_recall": 0.896328293736501,
+    "best_threshold": 0.4800000000000001,
+    "best_f1": 0.8949615713065756,
+    "best_precision": 0.8847615027437737,
+    "best_recall": 0.9053995680345572,
+    "f1_improvement": 0.0009503692385015583
+}
