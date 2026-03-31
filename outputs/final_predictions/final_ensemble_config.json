@@ -1,0 +1,18 @@
+{
+    "device": "mps",
+    "n_folds": 5,
+    "convnext_weight": 0.5,
+    "efficientnet_weight": 0.5,
+    "final_threshold": 0.48,
+    "convnext_tta": [
+        "orig",
+        "hflip",
+        "resize_248_crop_224"
+    ],
+    "efficientnet_tta": [
+        "orig",
+        "hflip",
+        "resize_400_crop_384"
+    ],
+    "test_rows": 2058
+}
