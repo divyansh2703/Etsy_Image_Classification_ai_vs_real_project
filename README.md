@@ -1,5 +1,3 @@
-# ListingAuthentic
-
 ### AI-Generated Product Image Detection for E-Commerce Trust & Safety
 ListingAuthentic is an end-to-end computer vision pipeline for distinguishing **AI-generated product images** from **authentic product photographs** in online marketplaces such as Etsy.
 
